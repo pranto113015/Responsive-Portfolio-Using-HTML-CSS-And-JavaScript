@@ -5,7 +5,10 @@
 This project involves building a website that showcases your skills and experience. The key feature is that the website will be responsive, meaning it will adjust its layout and design to look good on any device, from desktops to mobile phones.
 
 ## Live Demo
-You can view a live demo of the project [Click Here](#).
+You can view a live demo of the project [Click Here](https://pranto113015.github.io/Responsive-Portfolio-Using-HTML-CSS-And-JavaScript/).
+
+![preview img](/assets/img/Project%20Demo.png)
+
 
 ## Features
 - Responsive design.
@@ -24,6 +27,15 @@ You can view a live demo of the project [Click Here](#).
 - Javascript
 - Favicon
 - Remixicon
+
+## Resources Used
+- CDN Icons: https://cdnjs.com/libraries/remixicon
+- Fonts: https://fonts.google.com/
+- Icons: https://remixicon.com/
+- JS Functions: https://github.com/bedimcode/responsi...
+- EmailJs: https://www.emailjs.com/
+- ScrollReveal: https://scrollrevealjs.org/
+- Original Images: https://www.freepik.es/
 
 ## How to Run the Project Manually
 If you run this project locally, follow these steps

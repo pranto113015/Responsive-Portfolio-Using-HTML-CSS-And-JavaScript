@@ -304,7 +304,6 @@ img {
 
 
 
-
 /*=============== HOME ===============*/
 .home_container {
   row-gap: 2rem;
@@ -391,7 +390,6 @@ img {
 
 
 
-
 /*=============== BUTTON ===============*/
 .button {
   display: inline-flex;
@@ -406,20 +404,6 @@ img {
 .button:hover {
   background-color: var(--first-color-alt);
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
