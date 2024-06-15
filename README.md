@@ -32,7 +32,6 @@ You can view a live demo of the project [Click Here](https://pranto113015.github
 - CDN Icons: https://cdnjs.com/libraries/remixicon
 - Fonts: https://fonts.google.com/
 - Icons: https://remixicon.com/
-- JS Functions: https://github.com/bedimcode/responsi...
 - EmailJs: https://www.emailjs.com/
 - ScrollReveal: https://scrollrevealjs.org/
 - Original Images: https://www.freepik.es/
